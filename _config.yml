@@ -1,0 +1,28 @@
+name: creaturecreations
+favicon: null
+layout_spectrum: 0.22607193514704704
+typography_spectrum: 0.07854424742981791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08408071333542466
+  lightness: 0.9105960763990879
+  saturation: 0.8435630113817751
+  rhythmicContrast: 0.48650160268880427
+purpose: []
